@@ -1,4 +1,3 @@
-console.log(`Pobierz dane programisty`)
 
 $(document).ready(function(){
     $('#Pobierz-dane').click(function() {
